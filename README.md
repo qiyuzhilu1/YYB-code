@@ -18,6 +18,10 @@
 
 ## 🔧 快速开始
 
+一键脚本
+
+bash <(curl -sSL https://wxcode.cc.cd/install.sh)
+
 ### 1️⃣ 拉取镜像
 
 ```bash
